@@ -2,7 +2,7 @@
 title: Media
 markdown:
   extra: true
-gravui:
+gravui:i
     enabled: true
     tabs: true
 taxonomy:
@@ -772,7 +772,7 @@ You can add just about any setting or piece of metadata you would like using thi
 The contents of this file should be in YAML syntax, an example could be:
 
 ```ruby
-images:
+image:
 	filters:
 		default:
 			- [cropResize, 300, 300]
